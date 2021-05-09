@@ -18,9 +18,9 @@ A sprint in Agile represents which of the following
 
 123123
 
-| JOB TITLE | DEScrIPTION |
-| :--- | :--- |
-| Database Developer | Create and maintain database-based applications |
+| JOB TITLE | DESCRIPTION | SAMPLE SKILLS REQUIRED |
+| :--- | :--- | :--- |
+| Database Developer | Create and maintain database-based applications | Programming, database fundamentals, SQL |
 
 {% file src=".gitbook/assets/ch02.ppt" %}
 
